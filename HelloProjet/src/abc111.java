@@ -4,6 +4,6 @@ public class abc {
 
     @Test
     public void abc() {
-        System.out.println("abc22222");
+        System.out.println("abc");
     }
 }
